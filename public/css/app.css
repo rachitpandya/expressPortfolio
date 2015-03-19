@@ -1,0 +1,100 @@
+﻿body {
+        font: normal 85% Arial, Helvetica, sans-serif;
+        background: url(../assets/images/background.jpg) repeat;
+        color: #000000;
+}
+#headerstyle {
+    font-family:"Lucida Handwriting";
+    color:#f29f0a;
+}
+
+a.menu-icon span {
+-webkit-box-shadow: 0 10px 0 1px #e9e4e4, 0 16px 0 1px #e9e4e4, 0 22px 0 1px #e9e4e4;
+box-shadow: 0px 10px 0px 1px #e9e4e4, 0px 16px 0px 1px #e9e4e4, 0px 22px 0px 1px #e9e4e4;
+padding
+{
+text-align:justify;
+}
+}
+#footer {
+    text-align:center;
+    font-size:15px;
+    padding-bottom:2em;
+}
+#bannerstyle {
+background:url(../assets/images/banner2.png);background-repeat:no-repeat;background-position:center
+}
+#logo {
+    padding:0px 0px 0px 75px;
+}
+#chp {
+    text-align:justify;
+}
+#clrng {
+    align-self:center;
+}
+#btnsmall {
+    height:50px;
+    width:50px;
+    margin-right:20px;
+    
+
+}
+#panel1 {
+    background-color:transparent;
+opacity: 0.4;
+    filter: alpha(opacity=40);
+}
+
+#panel1:hover {
+     background-color:transparent;
+opacity: 1.0;
+    filter: alpha(opacity=100);
+}
+
+#imgclrng {
+    height:275px;
+    
+}
+#brdcrmstyle {
+    padding-left:2em;
+background-color:transparent;
+font-weight:bold;
+}
+.circular {
+	width: 200px;
+	height: 200px;
+	border-radius: 150px;
+	background: url(../assets/images/myimg.jpg) no-repeat;
+    background-size:cover;
+	}
+
+.circular img {
+	opacity: 0;
+	filter: alpha(opacity=0);
+    height:300px;
+    width:300px;
+	}
+h4 {
+    font-style:italic;
+    color:blue;
+}
+#resumelink {
+    text-align:center;
+    font-size:20px;
+    color:red;
+    font-family:'Lucida Fax';
+}
+#intro {
+    font-size:60px;
+    font-family:'Lucida Handwriting';
+    color:red;
+    font-style:italic;
+
+}
+#subintro {
+    
+    font-family:Calibri;
+    color:red;
+    font-style:italic;
+}
