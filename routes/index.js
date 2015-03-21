@@ -14,12 +14,12 @@ router.get('/about', function(req, res, next) {
 
 /* GET contact page. */
 router.get('/contact', function(req, res, next) {
-  res.render('index', { title: 'Contact Me' });
+  res.render('contact', { title: 'Contact Me' });
 });
 
 /* GET project page. */
 router.get('/project', function(req, res, next) {
-  res.render('index', { title: 'Projects' });
+  res.render('project', { title: 'Projects' });
 });
 
 /* GET service page. */
